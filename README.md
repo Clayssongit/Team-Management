@@ -1,7 +1,7 @@
 # Team-Management
- basic program with interface created with tkinter for team management
+Basic project with interface created with tkinter for team management
  
-# Technology Ssed
+# Technology Used
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Clay-Java" height="120" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
